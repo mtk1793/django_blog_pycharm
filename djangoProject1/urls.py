@@ -16,8 +16,9 @@ Including another URLconf
 """
 
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
 
 urlpatterns = [
     path("admin/", admin.site.urls),
+    path('', include('blog.urls')) # The reason of not putting any address in the path is that when the user enters the site at localhost:8000 it will direct to the default page of the blog application
 ]
