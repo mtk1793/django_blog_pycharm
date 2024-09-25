@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea76f748-3b47-401d-8b0e-911d719c3bbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/static/blog/all-posts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/static/blog/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/all-posts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/includes/post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/static/blog/post-detail.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post-detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/static/blog/all-posts.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/blog/all-posts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/static/blog/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/blog/static/blog/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/includes/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/includes/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoProject1/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject1/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,7 @@
       <updated>1726426390273</updated>
       <workItem from="1726426501762" duration="1119000" />
       <workItem from="1726433654691" duration="1073000" />
-      <workItem from="1727047512488" duration="4339000" />
+      <workItem from="1727047512488" duration="9769000" />
     </task>
     <servers />
   </component>
@@ -121,6 +120,11 @@
           <url>file://$PROJECT_DIR$/djangoProject1/urls.py</url>
           <line>17</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/blog/views.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
